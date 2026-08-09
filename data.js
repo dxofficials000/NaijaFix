@@ -49,7 +49,7 @@ const dprosDatabase = {
       rating: 0,
       reviewsCount: 0,
       verified: false,
-      featured: true,
+      featured: false,
       phone: "2349135580184",
       image: "", // Type your personal picture filename here
       description: "."
@@ -62,7 +62,7 @@ const dprosDatabase = {
       rating: 0,
       reviewsCount:0,
       verified: true,
-      featured: false,
+      featured: true,
       phone: "2349135580184",
       image: "vague.jpg", // Type your personal picture filename here
       description: "Expert leak detection, sanitary ware installation, and general domestic plumbing services."
