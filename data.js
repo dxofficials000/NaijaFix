@@ -44,14 +44,14 @@ const dprosDatabase = {
      {
       id: "art-004",
       name: "Uk Touch",
-      category: "laundry",
+      category: "website creator",
       location: "lagos,lekki,ogombo",
       rating: 0,
       reviewsCount: 0,
       verified: false,
-      featured: false,
+      featured: true,
       phone: "2349135580184",
-      image: "", // Type your personal picture filename here
+      image: "bicon", // Type your personal picture filename here
       description: "."
     },
     {
