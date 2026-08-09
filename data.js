@@ -52,6 +52,19 @@ const dprosDatabase = {
       featured: true,
       phone: "2349135580184",
       image: "", // Type your personal picture filename here
+      description: "."
+    },
+    {
+      id: "art-005",
+      name: "God's Pinnacle",
+      category: "Plumbing",
+      location: "lagos,lekki,ogombo",
+      rating: ,
+      reviewsCount: ,
+      verified: true,
+      featured: false,
+      phone: "2349135580184",
+      image: "vague.jpg", // Type your personal picture filename here
       description: "Expert leak detection, sanitary ware installation, and general domestic plumbing services."
     },
   ],
