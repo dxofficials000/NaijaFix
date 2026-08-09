@@ -52,7 +52,7 @@ const dprosDatabase = {
       featured: true,
       phone: "2349135580184",
       image: "bicon.jpg", // Type your personal picture filename here
-      description: "we make affordable websites businesses and brands."
+      description: "we make affordable websites for businesses and brands."
     },
     {
       id: "art-005",
