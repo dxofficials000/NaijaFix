@@ -51,8 +51,8 @@ const dprosDatabase = {
       verified: false,
       featured: true,
       phone: "2349135580184",
-      image: "bicon", // Type your personal picture filename here
-      description: "."
+      image: "bicon.png", // Type your personal picture filename here
+      description: "we make affordable websites businessesand brands."
     },
     {
       id: "art-005",
