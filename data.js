@@ -43,7 +43,7 @@ const dprosDatabase = {
     },
      {
       id: "art-004",
-      name: "Uk Touch",
+      name: "Dx Officials",
       category: "website creator",
       location: "lagos,lekki,ogombo",
       rating: 0,
